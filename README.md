@@ -23,6 +23,7 @@ To run this script, you should follow below command:
 # Visualization
 
 
-        front-end-propagation/image/analytical_solution.png
-      
+ ![Analytical solution](https://github.com/zhaoqi19/front-end-propagation/tree/master/image/front-end-propagation/image/analytical_solution.png)
+ 
+ ![Numerical solution](https://github.com/zhaoqi19/front-end-propagation/tree/master/image/front-end-propagation/image/numerical_Solution.png)
 
