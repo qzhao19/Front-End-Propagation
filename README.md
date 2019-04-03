@@ -23,3 +23,6 @@ To run this script, you should follow below command:
 # Visualization
 
 
+        front-end-propagation/image/analytical_solution.png
+      
+
