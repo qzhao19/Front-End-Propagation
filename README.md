@@ -24,7 +24,7 @@ To run this script, you should follow below command:
 
 Analytical solution
 
-![image](https://github.com/zhaoqi19/front-end-propagation/tree/master/image/front-end-propagation/image/analytical_solution.png)
+![image](https://github.com/zhaoqi19/front-end-propagation/blob/master/image/analytical_solution.png)
  
 Numerical solution
 
